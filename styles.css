@@ -18,12 +18,12 @@ li {
 }
 
 a {
-    text-decoration: none;
+    	text-decoration: none;
 	color: #69696a;
 }
 
  h1 {
-    color: #000;
+    	color: #000;
 }
 
 p.description {
@@ -33,13 +33,13 @@ p.description {
 }
 
 input#hire_us, input#scroll_down {
-    background-color: #000;
+    	background-color: #000;
 	color: #fff;
 	text-align: center;
 	width: 100%;
-    padding: 10px;
-    border: none;
-    border-radius: 20px;
+    	padding: 10px;
+    	border: none;
+    	border-radius: 20px;
 }
 
 
